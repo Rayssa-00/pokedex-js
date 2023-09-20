@@ -14,8 +14,6 @@ Pokedex desenvolvida a partir do uso da PokeApi com fetch Api
 
 ![mobile(2)](/assets/img/mobile(2).png)
 
-![mobile](/assets/img/mobile.png)
-
 ## Referência
 
 - [PokeApi](https://pokeapi.co/api/v2/pokemon/)
