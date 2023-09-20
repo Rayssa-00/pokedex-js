@@ -157,7 +157,7 @@
 
 .backCard{
     position: absolute;
-    width: 400px;
+    width: 390px;
     height: 420px;
     transform: rotateY(180deg);
     backface-visibility: hidden;
