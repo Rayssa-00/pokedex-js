@@ -183,7 +183,7 @@
 
 /* Media query responsive */
 
-@media screen and (max-width:400px){
+@media screen and (min-width:320px) and (max-width:669px){
     .search {
         margin: 1rem;
     }
@@ -207,7 +207,7 @@
     }
 }
 
-@media screen and (min-width:401px) and (max-width:760px) {
+@media screen and (min-width:670px) and (max-width:1023px){
     .search {
         margin: 1rem;
     }
@@ -229,9 +229,9 @@
     .photo_logo_footer{
         width: 60px;
     }
-}
+} 
 
-@media screen and (min-width:761px) and (max-width: 1160px) {
+ @media screen and (min-width:1024px) and (max-width:1440px) {
     .search {
         margin: 1rem;
     }
@@ -243,29 +243,6 @@
 
     .backCard {
         width: 310px;
-    }
-
-    .footer{
-        height: 30vh;
-    }
-
-    .photo_logo_footer{
-        width: 60px;
-    }
-}
-
-@media screen and (min-width:1161px) and (max-width: 1400px) {
-    .search {
-        margin: 1rem;
-    }
-
-    .pokemons {
-        grid-template-columns: 1fr 1fr 1fr;
-       
-    }
-
-    .backCard {
-        width: 330px;
     }
 
     .footer{
