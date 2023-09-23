@@ -17,3 +17,5 @@ Pokedex desenvolvida a partir do uso da PokeApi com fetch Api
 ## Referência
 
 - [PokeApi](https://pokeapi.co/api/v2/pokemon/)
+- [Pokedex](https://pokedex-js-rho.vercel.app/)
+  
